@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Problem solving, MEARN**
+- 💬 Ask me about **Problem solving, MERN**
 
 - 📫 How to reach me **mdabidhussain3112@gmail.com**
 
