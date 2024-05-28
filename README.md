@@ -1,5 +1,5 @@
-![MasterHead](![github-header-image](https://github.com/abid019/abid019/assets/108565643/02d03b86-9d13-4334-9cb5-1d49dc31fc71)
-)
+![github-header-image](https://github.com/abid019/abid019/assets/108565643/a80fc694-e40c-49a9-baa6-a5932e4a30ee)
+
 
 
 <h1 align="center">Hi 👋, I'm MD ABID HUSSAIN</h1>
